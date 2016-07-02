@@ -8,7 +8,7 @@ To view the notebooks online, use the following links:
 * [hw2](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw2.ipynb)
 * [hw3](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw3.ipynb)
 * [hw4](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw4.ipynb)
-* [hw5](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw5.ipynb)
+* [hw5](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw5.ipynb?flush_cache=true)
 * [hw6](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw6.ipynb)
 * [hw7](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw7.ipynb)
 * [hw8](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw8.ipynb)
