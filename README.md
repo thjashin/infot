@@ -13,4 +13,3 @@ To view the notebooks online, use the following links:
 * [hw7](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw7.ipynb)
 * [hw8](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw8.ipynb)
 * [hw9](http://nbviewer.jupyter.org/github/thjashin/infot/blob/master/infot-hw9.ipynb)
-* 
